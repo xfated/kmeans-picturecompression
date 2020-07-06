@@ -61,7 +61,7 @@ def recomputeCentroid():
 		centroidsArray[i] = centroid
 
 #run the process for "iter" number of times
-''' not tested :')
+''' 
 def chooseBestInitCentroids(numTries):
 	minDist = 10000
 	bestCentroids = randomInit()
