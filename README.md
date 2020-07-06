@@ -6,3 +6,11 @@ I see this as sort of creating a minimalist version of an image by replacing all
 * i.e. replacing each colour with a main representative
 
 Another plus side is that it can be used to decrease overall size of image. 
+
+
+## Example
+#### Before K-means
+![BeforeKmeans](dogCropped.jpg)
+
+#### After K-means
+![AfterKmeans](dogCropped_Compressed_5colours.jpg)
